@@ -1,0 +1,9 @@
+<svg class="feuilles" viewBox="0 0 260 329" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+        <g id="tasFeuille">
+          <path id="feuilleBas" d="M124.101 109.946l-85.139 88.771 135.322 129.786 85.139-88.772-135.322-129.785z" fill="#fff"/>
+          <path id="ombreMillieu" d="M161.054 115.766L40.703 90.377 2 273.839l120.351 25.389 38.703-183.462z" fill="#000008" fill-opacity=".129"/>
+          <path id="feuilleMillieu" d="M159.054 115.249L38.703 89.86 0 273.322l120.351 25.389 38.703-183.462z" fill="#fff"/>
+          <path id="ombreHaut" d="M162.001 2L50.607 54.158l79.509 169.807 111.394-52.158L162.001 2z" fill="#000008" fill-opacity=".129"/>
+          <path id="feuilleHaut" d="M163.388 0L51.876 51.904l79.122 169.988 111.512-51.904L163.388 0z" fill="#fff"/>
+        </g>
+      </svg>

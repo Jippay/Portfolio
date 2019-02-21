@@ -1,0 +1,654 @@
+<svg class="CV" viewBox="0 0 206 232" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:serif="http://www.serif.com/" fill-rule="evenodd" clip-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5">
+  <g id="CV">
+    <path id="fond" d="M.114 58.46L122.672.114l82.518 173.332-122.558 58.346L.114 58.46z" fill="#f2f2f2" stroke="#00e392" stroke-width=".23"/>
+    <path d="M181.919 145.031c-.424-.891-1.491-1.269-2.381-.846l-30.667 14.6c-.89.424-1.269 1.491-.845 2.381l12.949 27.201c.424.89 1.491 1.269 2.381.845l30.667-14.6c.891-.424 1.269-1.491.845-2.381l-12.949-27.2z" fill="#e6e6e6" stroke="#00e392" stroke-width=".18"/>
+    <path id="elipse-bleu" serif:id="elipse bleu" d="M63.288 33.268c6.763-3.22 14.868-.343 18.088 6.42 3.22 6.764.343 14.869-6.42 18.088-6.763 3.22-14.868.343-18.088-6.42-3.22-6.763-.343-14.868 6.42-18.088z" fill="none"/>
+    <clipPath id="_clip1">
+      <path id="_Image3_" serif:id="_Image3" d="M51.034 39.102l24.508-11.668L87.21 51.942 62.702 63.61 51.034 39.102z"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+      <clipPath id="_clip2">
+        <path d="M51.034 39.102l24.508-11.668L87.21 51.942 62.702 63.61 51.034 39.102z"/>
+      </clipPath>
+      <g clip-path="url(#_clip2)">
+        <use xlink:href="#_Image3" x="55.196" y="31.059" width="30.31" height="30.31" transform="matrix(.97773 0 0 .97774 0 0)"/>
+      </g>
+    </g>
+    <path d="M63.288 33.268c6.763-3.22 14.868-.343 18.088 6.42 3.22 6.764.343 14.869-6.42 18.088-6.763 3.22-14.868.343-18.088-6.42-3.22-6.763-.343-14.868 6.42-18.088z" fill="none" stroke="#00e392" stroke-width=".22" stroke-linecap="butt" stroke-miterlimit="1.4142"/>
+    <text x="13.06" y="65.523" font-family="'Roboto-Regular','Roboto'" font-size="4.104" transform="rotate(-25.45768 13.0596102 65.5231874)">
+      Jean-Philippe GRASSE
+    </text>
+    <text x="22.211" y="68.004" font-family="'Roboto-Regular','Roboto'" font-size="3.42" transform="rotate(-25.45768 22.2105141 68.0046116)">
+      Dév
+    </text>
+    <text x="27.329" y="65.568" font-family="'Roboto-Regular','Roboto'" font-size="3.42" transform="rotate(-25.45768 27.3286134 65.5680349)">
+      eloppeur W
+    </text>
+    <text x="42.782" y="58.211" font-family="'Roboto-Regular','Roboto'" font-size="3.42" transform="rotate(-25.45768 42.7819738 58.2111215)">
+      eb
+    </text>
+    <text x="30.126" y="69.466" font-family="'Roboto-Regular','Roboto'" font-size="2.736" transform="rotate(-25.45768 30.1256327 69.4663845)">
+      2 juin 1986
+    </text>
+    <text x="33.068" y="73.034" font-family="'Roboto-Regular','Roboto'" font-size="2.736" transform="rotate(-25.45768 33.0683133 73.034017)">
+      Permis B
+    </text>
+    <text x="97.636" y="20.572" font-family="'Roboto-Bold','Roboto'" font-weight="700" font-size="2.964" transform="rotate(-25.45768 97.6355148 20.5717972)">
+      T
+    </text>
+    <text x="99.175" y="19.839" font-family="'Roboto-Bold','Roboto'" font-weight="700" font-size="2.964" transform="rotate(-25.45768 99.1750559 19.838896)">
+      el
+    </text>
+    <text x="101.994" y="18.497" font-family="'Roboto-Regular','Roboto'" font-size="2.964" transform="rotate(-25.45768 101.9939996 18.4968765)">
+      :
+    </text>
+    <text x="92.769" y="26.677" font-family="'Roboto-Regular','Roboto'" font-size="2.964" transform="rotate(-25.45768 92.769415 26.6766592)">
+      06 26 08 08 66
+    </text>
+    <text x="99.706" y="28.253" font-family="'Roboto-Bold','Roboto'" font-weight="700" font-size="2.964" transform="rotate(-25.45768 99.7064258 28.2530984)">
+      Email
+    </text>
+    <text x="107.046" y="24.759" font-family="'Roboto-Regular','Roboto'" font-size="2.964" transform="rotate(-25.45768 107.04598 24.7590324)">
+      :
+    </text>
+    <text x="92.614" y="35.418" font-family="'Roboto-Regular','Roboto'" font-size="2.964" transform="rotate(-25.45768 92.614144 35.4178389)">
+      gr
+    </text>
+    <text x="94.969" y="34.297" font-family="'Roboto-Regular','Roboto'" font-size="2.964" transform="rotate(-25.45768 94.969088 34.2967066)">
+      assejp@gmail.com
+    </text>
+    <text x="101.552" y="36.799" font-family="'Roboto-Bold','Roboto'" font-weight="700" font-size="2.964" transform="rotate(-25.45768 101.55214 36.799509)">
+      Adr
+    </text>
+    <text x="105.813" y="34.771" font-family="'Roboto-Bold','Roboto'" font-weight="700" font-size="2.964" transform="rotate(-25.45768 105.812609 34.7712586)">
+      esse
+    </text>
+    <text x="112.121" y="31.768" font-family="'Roboto-Regular','Roboto'" font-size="2.964" transform="rotate(-25.45768 112.120954 31.7680327)">
+      :
+    </text>
+    <text x="96.558" y="42.965" font-family="'Roboto-Regular','Roboto'" font-size="2.964" transform="rotate(-25.45768 96.557813 42.9653176)">
+      2085 r
+    </text>
+    <text x="104.112" y="39.369" font-family="'Roboto-Regular','Roboto'" font-size="2.964" transform="rotate(-25.45768 104.1116543 39.3691881)">
+      oute d&apos;
+    </text>
+    <text x="111.888" y="35.667" font-family="'Roboto-Regular','Roboto'" font-size="2.964" transform="rotate(-25.45768 111.8875993 35.6672891)">
+      Allogny
+    </text>
+    <text x="94.575" y="47.697" font-family="'Roboto-Regular','Roboto'" font-size="2.964" transform="rotate(-25.45768 94.5753323 47.69726)">
+      18110 St-Mar
+    </text>
+    <text x="110.717" y="40.013" font-family="'Roboto-Regular','Roboto'" font-size="2.964" transform="rotate(-25.45768 110.7165854 40.0129775)">
+      tin d&apos;
+    </text>
+    <text x="116.199" y="37.403" font-family="'Roboto-Regular','Roboto'" font-size="2.964" transform="rotate(-25.45768 116.1990894 37.402995)">
+      Auxigny
+    </text>
+    <path d="M89.814 57.696c-.389-.816-1.366-1.163-2.182-.774L20.13 89.057c-.816.388-1.163 1.366-.774 2.182l27.568 57.908c.388.816 1.366 1.163 2.182.775l67.501-32.136c.816-.388 1.163-1.366.775-2.182L89.814 57.696z" fill="#e6e6e6" stroke="#00e392" stroke-width=".18"/>
+    <g id="timeline-ligne" serif:id="timeline ligne">
+      <path d="M31.065 84.337c-.104-.218-.366-.311-.585-.207l-.793.377c-.219.104-.312.367-.208.585l28.617 60.11c.104.219.366.312.585.207l.792-.377c.219-.104.312-.366.208-.585l-28.616-60.11z" fill="#00e392"/>
+      <path d="M50.524 127.255c.899-.428 1.977-.045 2.405.854.428.899.045 1.976-.854 2.404-.899.428-1.976.046-2.404-.853-.428-.899-.046-1.977.853-2.405zM42.484 110.365c.899-.428 1.976-.045 2.404.854.428.899.046 1.976-.853 2.404-.9.428-1.977.046-2.405-.853-.428-.899-.046-1.977.854-2.405zM30.816 85.857c.899-.428 1.976-.046 2.404.853.428.899.046 1.977-.853 2.405-.899.428-1.977.045-2.405-.854-.428-.899-.045-1.976.854-2.404z" fill="#fff" stroke="#00e392" stroke-width=".23"/>
+    </g>
+    <g id="mars-13---sept-18-patapain" serif:id="mars 13 - sept 18 patapain">
+      <text x="34.213" y="86.134" font-family="'Roboto-Black','Roboto'" font-weight="900" font-size="2.28" transform="rotate(-25.45768 34.2133103 86.1335968)">
+        Mars 2013-Sept 2018
+      </text>
+      <text x="36.791" y="91.548" font-family="'Roboto-Medium','Roboto'" font-weight="500" font-size="2.964" transform="rotate(-25.45768 36.7907508 91.5477976)">
+        Assistant Manager
+      </text>
+      <text x="35.38" y="88.585" font-family="'Roboto-Regular','Roboto'" font-size="2.28" fill="#009b4e" transform="rotate(-25.45768 35.3802 88.5849547)">
+        PatàP
+      </text>
+      <text x="40.868" y="85.972" font-family="'Roboto-Regular','Roboto'" font-size="2.28" fill="#009b4e" transform="rotate(-25.45768 40.867971 85.9722536)">
+        ain Saint-Doulchard
+      </text>
+      <g>
+        <text x="37.948" y="93.977" font-family="'Roboto-Regular','Roboto'" font-size="2.28" transform="rotate(-25.45768 37.9475028 93.977091)">
+          Management d&apos;
+        </text>
+        <text x="52.04" y="87.268" font-family="'Roboto-Regular','Roboto'" font-size="2.28" transform="rotate(-25.45768 52.0403972 87.267861)">
+          équipe
+        </text>
+        <text x="39.026" y="96.242" font-family="'Roboto-Regular','Roboto'" font-size="2.28" transform="rotate(-25.45768 39.0256235 96.2415922)">
+          Ouv
+        </text>
+        <text x="42.56" y="94.559" font-family="'Roboto-Regular','Roboto'" font-size="2.28" transform="rotate(-25.45768 42.560133 94.558866)">
+          ertur
+        </text>
+        <text x="46.883" y="92.501" font-family="'Roboto-Regular','Roboto'" font-size="2.28" transform="rotate(-25.45768 46.8826278 92.5011458)">
+          e et f
+        </text>
+        <text x="51.447" y="90.328" font-family="'Roboto-Regular','Roboto'" font-size="2.28" transform="rotate(-25.45768 51.4470337 90.3282415)">
+          ermetur
+        </text>
+        <text x="58.615" y="86.916" font-family="'Roboto-Regular','Roboto'" font-size="2.28" transform="rotate(-25.45768 58.614572 86.9159488)">
+          e du r
+        </text>
+        <text x="63.698" y="84.496" font-family="'Roboto-Regular','Roboto'" font-size="2.28" transform="rotate(-25.45768 63.6982535 84.4957922)">
+          estaur
+        </text>
+        <text x="69.434" y="81.765" font-family="'Roboto-Regular','Roboto'" font-size="2.28" transform="rotate(-25.45768 69.4344192 81.7649515)">
+          ant
+        </text>
+        <g>
+          <text x="40.104" y="98.507" font-family="'Roboto-Regular','Roboto'" font-size="2.28" transform="rotate(-25.45768 40.104087 98.5066362)">
+            Caisses, tr
+          </text>
+          <text x="49.582" y="93.995" font-family="'Roboto-Regular','Roboto'" font-size="2.28" transform="rotate(-25.45768 49.5817125 93.9946482)">
+            avail administr
+          </text>
+          <text x="62.909" y="87.65" font-family="'Roboto-Regular','Roboto'" font-size="2.28" transform="rotate(-25.45768 62.9087361 87.6500534)">
+            atif
+          </text>
+        </g>
+        <g>
+          <text x="41.182" y="100.771" font-family="'Roboto-Regular','Roboto'" font-size="2.28" transform="rotate(-25.45768 41.1822076 100.7711375)">
+            Gestion des st
+          </text>
+          <text x="54.265" y="94.543" font-family="'Roboto-Regular','Roboto'" font-size="2.28" transform="rotate(-25.45768 54.2654707 94.5427048)">
+            ocks et commandes
+          </text>
+        </g>
+        <g>
+          <text x="42.26" y="103.036" font-family="'Roboto-Regular','Roboto'" font-size="2.28" transform="rotate(-25.45768 42.260057 103.0358101)">
+            Gestion du module &quot;Pr
+          </text>
+          <text x="62.621" y="93.343" font-family="'Roboto-Regular','Roboto'" font-size="2.28" transform="rotate(-25.45768 62.6210887 93.3427473)">
+            oduit&quot; et &quot;Mark
+          </text>
+          <text x="76.001" y="86.973" font-family="'Roboto-Regular','Roboto'" font-size="2.28" transform="rotate(-25.45768 76.0008246 86.9728368)">
+            eting&quot;
+          </text>
+        </g>
+        <g>
+          <text x="43.338" y="105.301" font-family="'Roboto-Regular','Roboto'" font-size="2.28" transform="rotate(-25.45768 43.3385204 105.300854)">
+            Pr
+          </text>
+          <text x="45.314" y="104.361" font-family="'Roboto-Regular','Roboto'" font-size="2.28" transform="rotate(-25.45768 45.313404 104.3606415)">
+            oductions fr
+          </text>
+          <text x="56.286" y="99.137" font-family="'Roboto-Regular','Roboto'" font-size="2.28" transform="rotate(-25.45768 56.2865038 99.1367814)">
+            aîches et sur
+          </text>
+          <text x="67.936" y="93.591" font-family="'Roboto-Regular','Roboto'" font-size="2.28" transform="rotate(-25.45768 67.9358307 93.59085)">
+            gelées
+          </text>
+        </g>
+      </g>
+    </g>
+    <g id="fev-avril-2013-cgr" serif:id="fev avril 2013 cgr">
+      <text x="46.499" y="111.14" font-family="'Roboto-Black','Roboto'" font-weight="900" font-size="2.28" transform="rotate(-25.45768 46.4993472 111.1397324)">
+        F
+      </text>
+      <text x="47.604" y="110.614" font-family="'Roboto-Black','Roboto'" font-weight="900" font-size="2.28" transform="rotate(-25.45768 47.6041206 110.6136582)">
+        évrier - A
+      </text>
+      <text x="56.326" y="106.461" font-family="'Roboto-Black','Roboto'" font-weight="900" font-size="2.28" transform="rotate(-25.45768 56.326058 106.4613936)">
+        vril 2013
+      </text>
+      <text x="49.255" y="116.928" font-family="'Roboto-Medium','Roboto'" font-weight="500" font-size="2.964" transform="rotate(-25.45768 49.2549896 116.9277964)">
+        Agent d&apos;
+      </text>
+      <text x="58.932" y="112.32" font-family="'Roboto-Medium','Roboto'" font-weight="500" font-size="2.964" transform="rotate(-25.45768 58.9323179 112.3206356)">
+        accueil billetterie
+      </text>
+      <g>
+        <text x="47.743" y="113.752" font-family="'Roboto-Regular','Roboto'" font-size="2.28" fill="#009b88" transform="rotate(-25.45768 47.7431833 113.752012)">
+          CGR Bourges
+        </text>
+      </g>
+      <g>
+        <text x="50.443" y="119.421" font-family="'Roboto-Regular','Roboto'" font-size="2.28" transform="rotate(-25.45768 50.4425545 119.4215127)">
+          Gér
+        </text>
+        <text x="53.613" y="117.912" font-family="'Roboto-Regular','Roboto'" font-size="2.28" transform="rotate(-25.45768 53.6128905 117.912198)">
+          er la caisse, seul ou en équipe
+        </text>
+        <g>
+          <text x="51.521" y="121.686" font-family="'Roboto-Regular','Roboto'" font-size="2.28" transform="rotate(-25.45768 51.5206252 121.6862353)">
+            Réappr
+          </text>
+          <text x="57.985" y="118.608" font-family="'Roboto-Regular','Roboto'" font-size="2.28" transform="rotate(-25.45768 57.9851377 118.6085717)">
+            ovisionnement des r
+          </text>
+          <text x="76.433" y="109.826" font-family="'Roboto-Regular','Roboto'" font-size="2.28" transform="rotate(-25.45768 76.432874 109.8261294)">
+            ayon
+          </text>
+        </g>
+      </g>
+    </g>
+    <g id="mars-07---12-manka" serif:id="mars 07 - 12 manka">
+      <text x="54.633" y="128.224" font-family="'Roboto-Black','Roboto'" font-weight="900" font-size="2.28" transform="rotate(-25.45768 54.6325426 128.2236253)">
+        Mars 2007-A
+      </text>
+      <text x="66.924" y="122.372" font-family="'Roboto-Black','Roboto'" font-weight="900" font-size="2.28" transform="rotate(-25.45768 66.9243927 122.3719716)">
+        vril 2012
+      </text>
+      <text x="57.173" y="133.56" font-family="'Roboto-Medium','Roboto'" font-weight="500" font-size="2.964" transform="rotate(-25.45768 57.173259 133.5604357)">
+        Agent de pr
+      </text>
+      <text x="70.967" y="126.993" font-family="'Roboto-Medium','Roboto'" font-weight="500" font-size="2.964" transform="rotate(-25.45768 70.9673885 126.9935617)">
+        oduction
+      </text>
+      <g>
+        <text x="55.711" y="130.49" font-family="'Roboto-Regular','Roboto'" font-size="2.28" fill="#009b88" transform="rotate(-25.45768 55.71142 130.489926)">
+          Manka Créations
+        </text>
+      </g>
+      <g>
+        <text x="58.119" y="135.547" font-family="'Roboto-Regular','Roboto'" font-size="2.28" transform="rotate(-25.45768 58.1190688 135.5465872)">
+          Pr
+        </text>
+        <text x="60.094" y="134.606" font-family="'Roboto-Regular','Roboto'" font-size="2.28" transform="rotate(-25.45768 60.0941737 134.6064246)">
+          oduction, v
+        </text>
+        <text x="70.023" y="129.88" font-family="'Roboto-Regular','Roboto'" font-size="2.28" transform="rotate(-25.45768 70.0225102 129.8798533)">
+          ériﬁcation et emballage des pr
+        </text>
+        <text x="97.612" y="116.745" font-family="'Roboto-Regular','Roboto'" font-size="2.28" transform="rotate(-25.45768 97.6118545 116.7454198)">
+          oduits
+        </text>
+        <g>
+          <text x="59.197" y="137.811" font-family="'Roboto-Regular','Roboto'" font-size="2.28" transform="rotate(-25.45768 59.1971895 137.8110885)">
+            Gér
+          </text>
+          <text x="62.368" y="136.302" font-family="'Roboto-Regular','Roboto'" font-size="2.28" transform="rotate(-25.45768 62.3674756 136.301995)">
+            er une commande et ses impér
+          </text>
+          <text x="90.618" y="122.853" font-family="'Roboto-Regular','Roboto'" font-size="2.28" transform="rotate(-25.45768 90.6176374 122.8529437)">
+            atifs
+          </text>
+        </g>
+        <g>
+          <text x="60.276" y="140.076" font-family="'Roboto-Regular','Roboto'" font-size="2.28" transform="rotate(-25.45768 60.275603 140.0763538)">
+            Remplacement du magasinier cariste
+          </text>
+        </g>
+        <g>
+          <text x="61.354" y="142.341" font-family="'Roboto-Regular','Roboto'" font-size="2.28" transform="rotate(-25.45768 61.3537237 142.340855)">
+            F
+          </text>
+          <text x="62.47" y="141.809" font-family="'Roboto-Regular','Roboto'" font-size="2.28" transform="rotate(-25.45768 62.470479 141.8091124)">
+            ormation des stagiair
+          </text>
+          <text x="81.886" y="132.566" font-family="'Roboto-Regular','Roboto'" font-size="2.28" transform="rotate(-25.45768 81.8863525 132.5658126)">
+            es et intérimair
+          </text>
+          <text x="95.518" y="126.076" font-family="'Roboto-Regular','Roboto'" font-size="2.28" transform="rotate(-25.45768 95.5183534 126.0760777)">
+            es
+          </text>
+        </g>
+      </g>
+    </g>
+    <text x="71.133" y="69.555" font-family="'Roboto-Medium','Roboto'" font-weight="500" font-size="3.42" transform="rotate(-25.45768 71.1334471 69.555337)">
+      Expériences
+    </text>
+    <path d="M71.241 69.781l16.812-8.003.072.151-16.812 8.003-.072-.151z"/>
+    <path d="M119.634 120.334c-.39-.819-1.371-1.167-2.19-.777l-67.491 32.13c-.819.39-1.167 1.371-.777 2.19l17.095 35.909c.39.819 1.371 1.167 2.19.777l67.491-32.13c.818-.39 1.167-1.371.777-2.19l-17.095-35.909z" fill="#e6e6e6" stroke="#00e392" stroke-width=".18"/>
+    <g id="TPdev-web-2018-2019" serif:id="TPdev web 2018-2019">
+      <text x="58.666" y="159.99" font-family="'Roboto-Black','Roboto'" font-weight="900" font-size="2.28" transform="rotate(-25.45768 58.666025 159.9901244)">
+        Sept 2018 - Mai 2019
+      </text>
+      <text x="85.676" y="146.753" font-family="'Roboto-Medium','Roboto'" font-weight="500" font-size="2.508" transform="rotate(-25.45768 85.6765205 146.7528525)">
+        Titr
+      </text>
+      <text x="89.158" y="145.096" font-family="'Roboto-Medium','Roboto'" font-weight="500" font-size="2.508" transform="rotate(-25.45768 89.1575536 145.0957347)">
+        e Pr
+      </text>
+      <text x="93.141" y="143.199" font-family="'Roboto-Medium','Roboto'" font-weight="500" font-size="2.508" transform="rotate(-25.45768 93.1407031 143.1993534)">
+        ofessionnel Dé
+      </text>
+      <text x="108.184" y="136.038" font-family="'Roboto-Medium','Roboto'" font-weight="500" font-size="2.508" transform="rotate(-25.45768 108.1842542 136.0376474)">
+        veloppeur
+      </text>
+      <g>
+        <text x="86.755" y="149.017" font-family="'Roboto-Medium','Roboto'" font-weight="500" font-size="2.508" transform="rotate(-25.45768 86.7545912 149.017575)">
+          W
+        </text>
+        <text x="88.713" y="148.085" font-family="'Roboto-Medium','Roboto'" font-weight="500" font-size="2.508" transform="rotate(-25.45768 88.7128084 148.0852299)">
+          eb / W
+        </text>
+        <text x="95.185" y="145.004" font-family="'Roboto-Medium','Roboto'" font-weight="500" font-size="2.508" transform="rotate(-25.45768 95.1853827 145.003804)">
+          eb Mobile niv
+        </text>
+        <text x="108.666" y="138.586" font-family="'Roboto-Medium','Roboto'" font-weight="500" font-size="2.508" transform="rotate(-25.45768 108.666473 138.5858324)">
+          eau III
+        </text>
+      </g>
+      <g>
+        <text x="59.509" y="162.041" font-family="'Roboto-Regular','Roboto'" font-size="2.052" transform="rotate(-25.45768 59.5092653 162.0410454)">
+          AFORMAC Bourges
+        </text>
+      </g>
+      <g>
+        <text x="87.676" y="151.122" font-family="'Roboto-Light','Roboto'" font-weight="300" font-size="2.28" transform="rotate(-25.45768 87.6763358 151.121591)">
+          F
+        </text>
+        <text x="88.813" y="150.58" font-family="'Roboto-Light','Roboto'" font-weight="300" font-size="2.28" transform="rotate(-25.45768 88.8133564 150.5804675)">
+          ormation labellisée Gr
+        </text>
+        <text x="108.377" y="141.267" font-family="'Roboto-Light','Roboto'" font-weight="300" font-size="2.28" transform="rotate(-25.45768 108.3770841 141.2665752)">
+          ande É
+        </text>
+        <text x="114.471" y="138.365" font-family="'Roboto-Light','Roboto'" font-weight="300" font-size="2.28" transform="rotate(-25.45768 114.471111 138.36555)">
+          cole du
+        </text>
+        <g>
+          <text x="88.657" y="153.181" font-family="'Roboto-Light','Roboto'" font-weight="300" font-size="2.28" transform="rotate(-25.45768 88.6566207 153.18067)">
+            Numérique
+          </text>
+        </g>
+      </g>
+    </g>
+    <g id="PSC1-2017" serif:id="PSC1 2017">
+      <text x="63.888" y="170.96" font-family="'Roboto-Black','Roboto'" font-weight="900" font-size="2.28" transform="rotate(-25.45768 63.8883217 170.9598468)">
+        A
+      </text>
+      <text x="65.24" y="170.316" font-family="'Roboto-Black','Roboto'" font-weight="900" font-size="2.28" transform="rotate(-25.45768 65.2404545 170.316097)">
+        vril 2017
+      </text>
+      <text x="90.734" y="158.179" font-family="'Roboto-Medium','Roboto'" font-weight="500" font-size="2.508" transform="rotate(-25.45768 90.734181 158.1795181)">
+        F
+      </text>
+      <text x="91.955" y="157.598" font-family="'Roboto-Medium','Roboto'" font-weight="500" font-size="2.508" transform="rotate(-25.45768 91.954683 157.5983935)">
+        ormation aux pr
+      </text>
+      <text x="107.917" y="149.999" font-family="'Roboto-Medium','Roboto'" font-weight="500" font-size="2.508" transform="rotate(-25.45768 107.9173577 149.9991897)">
+        emiers secours
+      </text>
+      <g>
+        <text x="91.812" y="160.444" font-family="'Roboto-Medium','Roboto'" font-weight="500" font-size="2.508" transform="rotate(-25.45768 91.8123018 160.4440194)">
+          PSC1
+        </text>
+      </g>
+      <g>
+        <text x="64.843" y="172.965" font-family="'Roboto-Regular','Roboto'" font-size="2.28" transform="rotate(-25.45768 64.8430983 172.9650066)">
+          Bourges
+        </text>
+      </g>
+    </g>
+    <g id="lycée">
+      <text x="67.37" y="178.273" font-family="'Roboto-Black','Roboto'" font-weight="900" font-size="2.28" transform="rotate(-25.45768 67.3698861 178.2728474)">
+        A
+      </text>
+      <text x="68.724" y="177.628" font-family="'Roboto-Black','Roboto'" font-weight="900" font-size="2.28" transform="rotate(-25.45768 68.7238684 177.6281196)">
+        nnée 2015
+      </text>
+      <text x="94.601" y="165.499" font-family="'Roboto-Medium','Roboto'" font-weight="500" font-size="2.508" transform="rotate(-25.45768 94.6007547 165.4987611)">
+        Niv
+      </text>
+      <text x="97.893" y="163.931" font-family="'Roboto-Medium','Roboto'" font-weight="500" font-size="2.508" transform="rotate(-25.45768 97.892589 163.9315117)">
+        eau Baccalaur
+      </text>
+      <text x="112.243" y="157.1" font-family="'Roboto-Medium','Roboto'" font-weight="500" font-size="2.508" transform="rotate(-25.45768 112.2429753 157.0999157)">
+        éat STI
+      </text>
+      <g>
+        <text x="95.777" y="167.969" font-family="'Roboto-Medium','Roboto'" font-weight="500" font-size="2.508" transform="rotate(-25.45768 95.7768325 167.9691774)">
+          Option Électr
+        </text>
+        <text x="108.829" y="161.756" font-family="'Roboto-Medium','Roboto'" font-weight="500" font-size="2.508" transform="rotate(-25.45768 108.8287838 161.7557728)">
+          onique
+        </text>
+      </g>
+      <g>
+        <text x="96.757" y="170.028" font-family="'Roboto-Light','Roboto'" font-weight="300" font-size="2.052" transform="rotate(-25.45768 96.7569961 170.0277637)">
+          L
+        </text>
+        <text x="97.613" y="169.62" font-family="'Roboto-Light','Roboto'" font-weight="300" font-size="2.052" transform="rotate(-25.45768 97.612782 169.6203932)">
+          ycée génér
+        </text>
+        <text x="106.348" y="165.462" font-family="'Roboto-Light','Roboto'" font-weight="300" font-size="2.052" transform="rotate(-25.45768 106.3482795 165.4616533)">
+          al et technologie Charles Jully
+        </text>
+      </g>
+    </g>
+    <text x="55.785" y="154.683" font-family="'Roboto-Medium','Roboto'" font-weight="500" font-size="3.42" transform="rotate(-25.45768 55.7847741 154.6829413)">
+      F
+    </text>
+    <text x="57.45" y="153.89" font-family="'Roboto-Medium','Roboto'" font-weight="500" font-size="3.42" transform="rotate(-25.45768 57.4494533 153.8904104)">
+      ormations
+    </text>
+    <path d="M55.893 154.909l15.752-7.499.071.151-15.752 7.499-.071-.151z"/>
+    <g id="language">
+      <text x="112.291" y="63.02" font-family="'Roboto-Regular','Roboto'" font-size="4.104" transform="rotate(-25.45768 112.2914438 63.02045)">
+        Langages
+      </text>
+      <text x="110.023" y="70.4" font-family="'Roboto-Light','Roboto'" font-weight="300" font-size="2.964" transform="rotate(-25.45768 110.0230063 70.4004333)">
+        H
+      </text>
+      <text x="111.879" y="69.517" font-family="'Roboto-Light','Roboto'" font-weight="300" font-size="2.964" transform="rotate(-25.45768 111.8787337 69.517056)">
+        TML
+      </text>
+      <text x="129.845" y="60.964" font-family="'Roboto-Light','Roboto'" font-weight="300" font-size="2.964" transform="rotate(-25.45768 129.8455328 60.9635396)">
+        CSS
+      </text>
+      <text x="110.011" y="76.841" font-family="'Roboto-Light','Roboto'" font-weight="300" font-size="2.964" transform="rotate(-25.45768 110.0110549 76.8407687)">
+        Jav
+      </text>
+      <text x="114.166" y="74.863" font-family="'Roboto-Light','Roboto'" font-weight="300" font-size="2.964" transform="rotate(-25.45768 114.1659229 74.8629005)">
+        aScript
+      </text>
+      <g>
+        <text x="132.153" y="66.3" font-family="'Roboto-Light','Roboto'" font-weight="300" font-size="2.964" transform="rotate(-25.45768 132.1530371 66.2997819)">
+          PHP
+        </text>
+      </g>
+    </g>
+    <g id="Logiciel">
+      <g id="jauge-photoshop" serif:id="jauge photoshop">
+        <path d="M130.443 81.777c.494-.236 1.087-.025 1.322.469.235.494.025 1.087-.469 1.322-.495.236-1.087.025-1.323-.469-.235-.495-.025-1.087.47-1.322zM133.309 80.412c.494-.235 1.087-.025 1.322.47.235.494.025 1.086-.469 1.322-.495.235-1.087.025-1.323-.469-.235-.495-.025-1.087.47-1.323zM136.175 79.048c.494-.235 1.086-.025 1.322.469.235.495.025 1.087-.47 1.322-.494.236-1.086.026-1.322-.469-.235-.494-.025-1.087.47-1.322zM139.04 77.684c.495-.236 1.087-.026 1.323.469.235.494.025 1.087-.47 1.322-.494.235-1.086.025-1.322-.469-.235-.495-.025-1.087.469-1.322zM141.906 76.319c.495-.235 1.087-.025 1.323.469.235.495.025 1.087-.47 1.323-.494.235-1.087.025-1.322-.47-.235-.494-.025-1.086.469-1.322z" fill="#00e392"/>
+        <path d="M144.772 74.955c.495-.236 1.087-.025 1.323.469.235.495.025 1.087-.47 1.322-.494.236-1.087.025-1.322-.469-.235-.494-.025-1.087.469-1.322zM147.638 73.59c.495-.235 1.087-.025 1.322.47.236.494.026 1.087-.469 1.322-.494.235-1.087.025-1.322-.469-.235-.495-.025-1.087.469-1.323zM150.504 72.226c.495-.235 1.087-.025 1.322.469.236.495.025 1.087-.469 1.323-.494.235-1.087.025-1.322-.47-.236-.494-.025-1.087.469-1.322z" fill="gray"/>
+      </g>
+      <g id="jauge-illustrator" serif:id="jauge illustrator">
+        <path d="M132.644 86.401c.495-.236 1.087-.025 1.322.469.236.495.026 1.087-.469 1.322-.494.236-1.087.025-1.322-.469-.236-.494-.025-1.087.469-1.322zM135.51 85.036c.494-.235 1.087-.025 1.322.47.236.494.025 1.087-.469 1.322-.494.235-1.087.025-1.322-.469-.236-.495-.025-1.087.469-1.323zM138.376 83.672c.494-.235 1.087-.025 1.322.469.236.495.025 1.087-.469 1.323-.494.235-1.087.025-1.322-.47-.236-.494-.025-1.087.469-1.322zM141.242 82.308c.494-.236 1.087-.025 1.322.469.236.494.025 1.087-.469 1.322-.495.236-1.087.025-1.322-.469-.236-.494-.026-1.087.469-1.322z" fill="#00e392"/>
+        <path d="M144.108 80.943c.494-.235 1.087-.025 1.322.47.235.494.025 1.087-.469 1.322-.495.235-1.087.025-1.323-.469-.235-.495-.025-1.087.47-1.323zM146.974 79.579c.494-.235 1.087-.025 1.322.469.235.495.025 1.087-.469 1.323-.495.235-1.087.025-1.323-.47-.235-.494-.025-1.087.47-1.322zM149.84 78.215c.494-.236 1.087-.026 1.322.469.235.494.025 1.087-.469 1.322-.495.236-1.087.025-1.323-.469-.235-.495-.025-1.087.47-1.322zM152.706 76.85c.494-.235 1.086-.025 1.322.47.235.494.025 1.086-.47 1.322-.494.235-1.086.025-1.322-.47-.235-.494-.025-1.086.47-1.322z" fill="gray"/>
+      </g>
+      <g id="jauge-adobe-xd" serif:id="jauge adobe xd">
+        <path d="M134.845 91.025c.495-.236 1.087-.025 1.323.469.235.495.025 1.087-.47 1.322-.494.236-1.086.025-1.322-.469-.235-.494-.025-1.087.469-1.322zM137.711 89.66c.495-.235 1.087-.025 1.323.47.235.494.025 1.087-.47 1.322-.494.235-1.087.025-1.322-.469-.235-.495-.025-1.087.469-1.323zM140.577 88.296c.495-.235 1.087-.025 1.323.469.235.495.025 1.087-.47 1.323-.494.235-1.087.025-1.322-.47-.235-.494-.025-1.087.469-1.322zM143.443 86.932c.495-.236 1.087-.025 1.322.469.236.494.026 1.087-.469 1.322-.494.236-1.087.025-1.322-.469-.235-.495-.025-1.087.469-1.322zM146.309 85.567c.495-.235 1.087-.025 1.322.47.236.494.025 1.087-.469 1.322-.494.235-1.087.025-1.322-.469-.236-.495-.025-1.087.469-1.323zM149.175 84.203c.494-.235 1.087-.025 1.322.469.236.495.025 1.087-.469 1.323-.494.235-1.087.025-1.322-.47-.236-.494-.025-1.087.469-1.322z" fill="#00e392"/>
+        <path d="M152.041 82.839c.494-.236 1.087-.026 1.322.469.236.494.025 1.087-.469 1.322-.495.236-1.087.025-1.322-.469-.236-.495-.025-1.087.469-1.322zM154.907 81.474c.494-.235 1.087-.025 1.322.469.236.495.025 1.087-.469 1.323-.495.235-1.087.025-1.322-.47-.236-.494-.026-1.086.469-1.322z" fill="gray"/>
+      </g>
+      <g id="jauge-office" serif:id="jauge office">
+        <path d="M137.047 95.649c.494-.235 1.087-.025 1.322.469.236.495.025 1.087-.469 1.323-.495.235-1.087.025-1.322-.47-.236-.494-.025-1.087.469-1.322zM139.913 94.285c.494-.236 1.087-.026 1.322.469.235.494.025 1.087-.469 1.322-.495.236-1.087.025-1.323-.469-.235-.495-.025-1.087.47-1.322zM142.779 92.92c.494-.235 1.087-.025 1.322.47.235.494.025 1.086-.469 1.322-.495.235-1.087.025-1.323-.47-.235-.494-.025-1.086.47-1.322zM145.645 91.556c.494-.236 1.087-.025 1.322.469.235.495.025 1.087-.469 1.322-.495.236-1.087.025-1.323-.469-.235-.494-.025-1.087.47-1.322zM148.511 90.191c.494-.235 1.086-.025 1.322.47.235.494.025 1.087-.47 1.322-.494.235-1.086.025-1.322-.469-.235-.495-.025-1.087.47-1.323z" fill="#00e392"/>
+        <path d="M151.376 88.827c.495-.235 1.087-.025 1.323.469.235.495.025 1.087-.47 1.323-.494.235-1.086.025-1.322-.47-.235-.494-.025-1.087.469-1.322zM154.242 87.463c.495-.236 1.087-.025 1.323.469.235.494.025 1.087-.47 1.322-.494.236-1.087.025-1.322-.469-.235-.494-.025-1.087.469-1.322zM157.108 86.098c.495-.235 1.087-.025 1.323.47.235.494.025 1.087-.47 1.322-.494.235-1.087.025-1.322-.469-.235-.495-.025-1.087.469-1.323z" fill="gray"/>
+      </g>
+      <text x="110.489" y="93.606" font-family="'Roboto-Light','Roboto'" font-weight="300" font-size="2.964" transform="rotate(-25.45768 110.4887521 93.6061138)">
+        Aﬃnity Phot
+      </text>
+      <text x="124.678" y="86.851" font-family="'Roboto-Light','Roboto'" font-weight="300" font-size="2.964" transform="rotate(-25.45768 124.6775526 86.8513143)">
+        o
+      </text>
+      <text x="112.69" y="98.23" font-family="'Roboto-Light','Roboto'" font-weight="300" font-size="2.964" transform="rotate(-25.45768 112.689999 98.2304297)">
+        Aﬃnity Designer
+      </text>
+      <text x="114.891" y="102.854" font-family="'Roboto-Light','Roboto'" font-weight="300" font-size="2.964" transform="rotate(-25.45768 114.891346 102.854303)">
+        Adobe XD
+      </text>
+      <text x="117.093" y="107.478" font-family="'Roboto-Light','Roboto'" font-weight="300" font-size="2.964" transform="rotate(-25.45768 117.0928643 107.4784476)">
+        Suite Oﬃce
+      </text>
+      <text x="119.159" y="111.819" font-family="'Roboto-LightItalic','Roboto'" font-weight="300" font-style="italic" font-size="2.964" transform="rotate(-25.45768 119.1592587 111.8191868)">
+        OS : Windows , Linux
+      </text>
+      <text x="121.276" y="116.266" font-family="'Roboto-LightItalic','Roboto'" font-weight="300" font-style="italic" font-size="2.964" transform="rotate(-25.45768 121.2765272 116.266336)">
+        IDE : Visual Studio Code
+      </text>
+      <g>
+        <text x="108.559" y="88.407" font-family="'Roboto-Regular','Roboto'" font-size="4.104" transform="rotate(-25.45768 108.558835 88.4068109)">
+          Logiciels
+        </text>
+      </g>
+    </g>
+    <g id="Gestion-projets" serif:id="Gestion projets">
+      <text x="127.237" y="127.64" font-family="'Roboto-Regular','Roboto'" font-size="4.104" transform="rotate(-25.45768 127.2367083 127.6400337)">
+        Gestion de pr
+      </text>
+      <text x="149.089" y="117.237" font-family="'Roboto-Regular','Roboto'" font-size="4.104" transform="rotate(-25.45768 149.08858 117.2370764)">
+        ojets
+      </text>
+      <g id="jauge-zoning" serif:id="jauge zoning">
+        <path d="M149.121 121.01c.494-.235 1.086-.025 1.322.469.235.495.025 1.087-.47 1.323-.494.235-1.086.025-1.322-.47-.235-.494-.025-1.087.47-1.322zM151.986 119.646c.495-.236 1.087-.025 1.323.469.235.494.025 1.087-.47 1.322-.494.236-1.087.025-1.322-.469-.235-.495-.025-1.087.469-1.322zM154.852 118.281c.495-.235 1.087-.025 1.323.47.235.494.025 1.086-.47 1.322-.494.235-1.087.025-1.322-.469-.235-.495-.025-1.087.469-1.323zM157.718 116.917c.495-.236 1.087-.025 1.323.469.235.495.025 1.087-.47 1.322-.494.236-1.087.026-1.322-.469-.235-.494-.025-1.087.469-1.322zM160.584 115.552c.495-.235 1.087-.025 1.322.47.236.494.026 1.087-.469 1.322-.494.235-1.087.025-1.322-.469-.236-.495-.025-1.087.469-1.323zM163.45 114.188c.494-.235 1.087-.025 1.322.469.236.495.025 1.087-.469 1.323-.494.235-1.087.025-1.322-.47-.236-.494-.025-1.087.469-1.322z" fill="#00e392"/>
+        <path d="M166.316 112.824c.494-.236 1.087-.025 1.322.469.236.494.025 1.087-.469 1.322-.494.236-1.087.025-1.322-.469-.236-.494-.025-1.087.469-1.322zM169.182 111.459c.494-.235 1.087-.025 1.322.47.236.494.025 1.087-.469 1.322-.495.235-1.087.025-1.322-.469-.236-.495-.025-1.087.469-1.323z" fill="gray"/>
+      </g>
+      <g id="jauge-spécification" serif:id="jauge spécification">
+        <path d="M153.523 130.258c.495-.235 1.087-.025 1.323.469.235.495.025 1.087-.47 1.323-.494.235-1.087.025-1.322-.47-.235-.494-.025-1.087.469-1.322zM156.389 128.894c.495-.236 1.087-.025 1.322.469.236.494.026 1.087-.469 1.322-.494.236-1.087.025-1.322-.469-.236-.494-.025-1.087.469-1.322zM159.255 127.529c.495-.235 1.087-.025 1.322.47.236.494.025 1.087-.469 1.322-.494.235-1.087.025-1.322-.469-.236-.495-.025-1.087.469-1.323z" fill="#00e392"/>
+        <path d="M162.121 126.165c.494-.235 1.087-.025 1.322.469.236.495.025 1.087-.469 1.323-.494.235-1.087.025-1.322-.47-.236-.494-.025-1.087.469-1.322zM164.987 124.801c.494-.236 1.087-.025 1.322.469.236.494.025 1.087-.469 1.322-.495.236-1.087.025-1.322-.469-.236-.495-.025-1.087.469-1.322zM167.853 123.436c.494-.235 1.087-.025 1.322.47.235.494.025 1.086-.469 1.322-.495.235-1.087.025-1.323-.469-.235-.495-.025-1.087.47-1.323zM170.719 122.072c.494-.236 1.087-.025 1.322.469.235.495.025 1.087-.469 1.322-.495.236-1.087.026-1.323-.469-.235-.494-.025-1.087.47-1.322zM173.585 120.707c.494-.235 1.087-.025 1.322.47.235.494.025 1.087-.469 1.322-.495.235-1.087.025-1.323-.469-.235-.495-.025-1.087.47-1.323z" fill="gray"/>
+      </g>
+      <text x="129.58" y="132.562" font-family="'Roboto-Light','Roboto'" font-weight="300" font-size="2.964" transform="rotate(-25.45768 129.5796757 132.561808)">
+        Z
+      </text>
+      <text x="131.153" y="131.812" font-family="'Roboto-Light','Roboto'" font-weight="300" font-size="2.964" transform="rotate(-25.45768 131.153133 131.8126478)">
+        oning,
+      </text>
+      <text x="130.854" y="135.238" font-family="'Roboto-Light','Roboto'" font-weight="300" font-size="2.964" transform="rotate(-25.45768 130.8537106 135.2381393)">
+        Wir
+      </text>
+      <text x="134.729" y="133.393" font-family="'Roboto-Light','Roboto'" font-weight="300" font-size="2.964" transform="rotate(-25.45768 134.728872 133.3934388)">
+        efr
+      </text>
+      <text x="137.846" y="131.909" font-family="'Roboto-Light','Roboto'" font-weight="300" font-size="2.964" transform="rotate(-25.45768 137.8457817 131.909511)">
+        ame,
+      </text>
+      <g>
+        <text x="132.128" y="137.915" font-family="'Roboto-Light','Roboto'" font-weight="300" font-size="2.964" transform="rotate(-25.45768 132.1279169 137.914742)">
+          Mockup
+        </text>
+      </g>
+      <g>
+        <text x="134.128" y="142.115" font-family="'Roboto-Light','Roboto'" font-weight="300" font-size="2.964" transform="rotate(-25.45768 134.1274598 142.1147532)">
+          Spéciﬁcations
+        </text>
+        <text x="135.402" y="144.791" font-family="'Roboto-Light','Roboto'" font-weight="300" font-size="2.964" transform="rotate(-25.45768 135.401666 144.7913558)">
+          techniques et
+        </text>
+        <text x="136.676" y="147.468" font-family="'Roboto-Light','Roboto'" font-weight="300" font-size="2.964" transform="rotate(-25.45768 136.6759222 147.4677372)">
+          fonctionnelles
+        </text>
+      </g>
+    </g>
+    <path d="M138.898 160.798c-.362-.76-1.274-1.083-2.034-.721l-67.703 32.231c-.76.362-1.083 1.273-.721 2.033l15.22 31.97c.361.761 1.273 1.084 2.033.722l67.703-32.231c.76-.362 1.083-1.273.722-2.033l-15.22-31.971z" fill="#e6e6e6" stroke="#00e392" stroke-width=".18"/>
+    <g id="jeux-video" serif:id="jeux video">
+      <text x="83.831" y="219.343" font-family="'Roboto-Medium','Roboto'" font-weight="500" font-size="2.508" transform="rotate(-25.45768 83.8313604 219.3434679)">
+        Jeux vidéo
+      </text>
+      <clipPath id="_clip4">
+        <path id="_Image5_" serif:id="_Image5" d="M79.66 210.582l4.441-11.327 7.081 2.776-4.44 11.327-7.082-2.776z"/>
+      </clipPath>
+      <g clip-path="url(#_clip4)">
+        <use xlink:href="#_Image5" width="54" height="53" transform="matrix(.92263 -.43924 .43165 .90669 76.9935 203.396)"/>
+      </g>
+    </g>
+    <g id="ciné">
+      <text x="101.072" y="208.62" font-family="'Roboto-Medium','Roboto'" font-weight="500" font-size="2.508" transform="rotate(-25.45768 101.0718811 208.6198166)">
+        Cinéma
+      </text>
+      <text x="103.526" y="210.482" font-family="'Roboto-Medium','Roboto'" font-weight="500" font-size="2.508" transform="rotate(-25.45768 103.5259788 210.4820865)">
+        Série
+      </text>
+      <clipPath id="_clip6">
+        <path id="_Image7_" serif:id="_Image7" d="M94.075 195.655l9.073-4.319 4.743 9.963-9.073 4.319-4.743-9.963z"/>
+      </clipPath>
+      <g clip-path="url(#_clip6)">
+        <clipPath id="_clip7">
+          <path d="M94.075 195.655l9.073-4.319 4.743 9.963-9.073 4.319-4.743-9.963z"/>
+        </clipPath>
+        <g clip-path="url(#_clip7)">
+          <use xlink:href="#_Image8" x="95.328" y="200.949" width="13.816" height="14.282" transform="matrix(.98686 0 0 .95216 0 0)"/>
+        </g>
+      </g>
+    </g>
+    <g id="benevol">
+      <text x="117.511" y="200.794" font-family="'Roboto-Medium','Roboto'" font-weight="500" font-size="2.508" transform="rotate(-25.45768 117.5110801 200.7937143)">
+        Béné
+      </text>
+      <text x="122.616" y="198.363" font-family="'Roboto-Medium','Roboto'" font-weight="500" font-size="2.508" transform="rotate(-25.45768 122.6158907 198.3634415)">
+        vole
+      </text>
+      <text x="116.321" y="204.39" font-family="'Roboto-Medium','Roboto'" font-weight="500" font-size="2.508" transform="rotate(-25.45768 116.3214736 204.3905838)">
+        dans div
+      </text>
+      <text x="124.78" y="200.364" font-family="'Roboto-Medium','Roboto'" font-weight="500" font-size="2.508" transform="rotate(-25.45768 124.779878 200.3637408)">
+        erses
+      </text>
+      <g>
+        <text x="117.966" y="206.385" font-family="'Roboto-Medium','Roboto'" font-weight="500" font-size="2.508" transform="rotate(-25.45768 117.9657624 206.3856228)">
+          associations
+        </text>
+      </g>
+      <clipPath id="_clip9">
+        <path id="_Image9_" serif:id="_Image9" d="M110.2 187.361l10.786-5.135 5.222 10.97-10.786 5.135-5.222-10.97z"/>
+      </clipPath>
+      <g clip-path="url(#_clip9)">
+        <clipPath id="_clip10">
+          <path d="M110.2 187.362l10.786-5.135 5.222 10.969-10.786 5.135-5.222-10.969z"/>
+        </clipPath>
+        <g clip-path="url(#_clip10)">
+          <use xlink:href="#_Image11" x="118.029" y="193.367" width="14.125" height="14.209" transform="scale(.94165 .94729)"/>
+        </g>
+      </g>
+    </g>
+    <g id="informatique">
+      <text x="134.999" y="192.468" font-family="'Roboto-Medium','Roboto'" font-weight="500" font-size="2.508" transform="rotate(-25.45768 134.999234 192.4682457)">
+        Informatique
+      </text>
+      <text x="136.514" y="194.525" font-family="'Roboto-Medium','Roboto'" font-weight="500" font-size="2.508" transform="rotate(-25.45768 136.5135202 194.5248817)">
+        et nouv
+      </text>
+      <text x="143.959" y="190.98" font-family="'Roboto-Medium','Roboto'" font-weight="500" font-size="2.508" transform="rotate(-25.45768 143.959137 190.9804495)">
+        elles
+      </text>
+      <g>
+        <text x="137.155" y="196.997" font-family="'Roboto-Medium','Roboto'" font-weight="500" font-size="2.508" transform="rotate(-25.45768 137.1554754 196.9972483)">
+          technologies
+        </text>
+      </g>
+      <clipPath id="_clip12">
+        <path id="_Image11_" serif:id="_Image11" d="M129.541 178.112l10.831-5.156 5.238 11.003-10.831 5.156-5.238-11.003z"/>
+      </clipPath>
+      <g clip-path="url(#_clip12)">
+        <clipPath id="_clip13">
+          <path d="M129.541 178.112l10.831-5.156 5.238 11.003-10.83 5.156-5.239-11.003z"/>
+        </clipPath>
+        <g clip-path="url(#_clip13)">
+          <use xlink:href="#_Image14" x="137.052" y="181.96" width="16.068" height="16.159" transform="scale(.9452 .95052)"/>
+        </g>
+      </g>
+    </g>
+    <g>
+      <text x="75.827" y="196.782" font-family="'Roboto-Medium','Roboto'" font-weight="500" font-size="3.42" transform="rotate(-25.45768 75.8268933 196.782237)">
+        Centr
+      </text>
+      <text x="83.302" y="193.223" font-family="'Roboto-Medium','Roboto'" font-weight="500" font-size="3.42" transform="rotate(-25.45768 83.3020225 193.2235334)">
+        es d’intér
+      </text>
+      <text x="95.982" y="187.187" font-family="'Roboto-Medium','Roboto'" font-weight="500" font-size="3.42" transform="rotate(-25.45768 95.9822814 187.1869599)">
+        êts
+      </text>
+    </g>
+    <path d="M75.935 197.008l24.433-11.632.072.151-24.434 11.632-.071-.151z"/>
+    <use id="_Image13_" serif:id="_Image13" xlink:href="#_Image15" width="72" height="72" transform="matrix(.92648 -.44107 .44107 .92648 161.248 164.372)"/>
+    <g>
+      <text x="152.293" y="163.315" font-family="'Roboto-Regular','Roboto'" font-size="4.104" transform="rotate(-25.45768 152.2925545 163.3156451)">
+        Git Hub : dcl-jipa
+      </text>
+    </g>
+    <g>
+      <text x="179.144" y="150.532" font-family="'Roboto-Regular','Roboto'" font-size="4.104" transform="rotate(-25.45768 179.1442335 150.5322109)">
+        y
+      </text>
+    </g>
+    <g>
+      <text x="168.225" y="183.762" font-family="'Roboto-Regular','Roboto'" font-size="4.104" transform="rotate(-25.45768 168.2247524 183.7615944)">
+        CV en ligne
+      </text>
+    </g>
+  </g>
+  <defs>
+    <image id="_Image3" width="31" height="31" xlink:href="data:image/png;base64,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"/>
+    <image id="_Image5" width="12" height="12" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABdUlEQVQokX2RTyiDcRzGn9/v3YoVs6S2vYrk4CgHB+Ei2pXlNOLgz15zs5zcnTh5Zxz8SZFaqIX35jJ/chHJUu9Jbe+KTTNa9nrfr4NobPkenz719H0+wD+nKEoysh5tLM5YOXDSKVdV11vTr5pu6Zhx4WxBw3IiwAGA/4Uld6jpxaJlI+l56zveEN/PfOWirJc0SKLcqgrnV6pwCmMihsqNAerjw3jKaciyFBrMNp0Xwf1x4eRKtd3CmIgBAPKje+yYNmEnJxLCLQPAGAD4XaGWlCV+d119wYyhg5KfhNVOeApBImIiVxRFENttdzeWw/JwZBRWqgARWwgnpzQOIPf2+AFf8xzxncHf8LYXyKjo0aepYGAWAJjfFXK0jdelK+wCzhYTUFxRZnrXIaz1Ah95eApB+p70ZyVJlJMAnCl+D7ejAUe5JWajGnTrY2SaqF3RAs8l4iRRNi+tu8zj66LMhhtE2AonAyPlxBZ7MCVRfviP+QSzmpUy7SUFBgAAAABJRU5ErkJggg=="/>
+    <image id="_Image8" width="14" height="15" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAPCAYAAADUFP50AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAB/UlEQVQokX2ST0uUURTGf+e+951XIqa0RsjU7A8MSrqoFoUDYqQRxETRtlX0AeojRYuWqR8gkFGCiFrUlJQollkK0WQ6zvvee0+LaQY16VncxT3nd+9zeE7Ef3R+7PZ2ob94v9BXlI3PCy921+Qg4NL1ezsAzqVZmtafq+qiIMPVyvS1Vo89CAAEkSiKc4mkjS4kHEKJ//lxZPzudhwnImIMIhFC1GrIssZytlN/AvQCx6qV6TKAGRotP3Mu+6ZojJHcbgjA2twAKmMIBjjeujeK1tDw1Hv3TjW0gSgyTUsixEnSK0oAFtqgCCeAcZemsxoCRoTT/T3cuDrK5YvDWGuxca5H4Ygg+aFSeR7AVCszk6i8Vg1Z8P6TD4HOo3nGrlzg5kSJvp5uxJjExsmIokvAEtCcp3ug+FCETtXwNbLxYL2e0tGR8PJNlbcfFpuWjbEuS38j+EJ/8VEEsLGy8LhwqnhHg76KIjvQyFxXbXOL5S9rOOdaASSE4IPqFlAzrWG1eU64rPERDayurVOvt2Jt5hbZ+JxBJlH50QZF1avKinNuNgT/HdW/LyoaPN5l3rtsMwRdrc5NPdizcoOl8oyA2jg+bOOOcQFC8N4799Nl2a/q3NSZdr771igAee/cSZHUBR9q3rk9wG7rezRUujUPrCs6/L4yfXZ/vaU/rVXqa0JsWfIAAAAASUVORK5CYII="/>
+    <image id="_Image11" width="15" height="15" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABxElEQVQokZXSzYuNARQG8N95573D1CwwJqWZ5CsfIZPCSI3uDKEkVhakLP0f9haytcFOFFlwzZAF+UixQkNKylfMMBrc+x4L06Bh4Vmdznmec07nPOFfGMx+TffVtDSi9TdKMSMzlGdty6VYqlTHPkO5aqrh7N+pMR1tz80qY8IuaT224JLCRoxJD1ROGY6nM8VDuRjHhW6VE7inaVK7zypHhE3SVeGNRlz4JR7MFVghHMRJ391W+GokEmzLLqV+7JdeCMc0ollOze/EUYxoxPXpberZK7Vr06PpgTa9wnocwOnSQBboExap3FHPUFguLZMqaVxlXOEjLmKt9MpAlgU6MSndRFNhD1YKbxReKKz2zajhmPDOmLBF6NVmVqHmGz4Le4QOLS9998hXz6RSmBCaNmTo0ieN4rmWVqERk9KSqUvuVnniRjzXLoU+zHMzvug0V+gW1gkv3YjJnyZJY9IHaavSVoM5F5+MOqNyHtTsUDiAc5j488/13KlQxxrhivQIb4UezJd2oUs65Fq8hnJa3HRX4aHSYewV1mIlHktrcF7LBePez3QYrM6aBTqUBjBLpSbMkW5hoWtx2X9hQ3b8q/QDQKWfXEaY87gAAAAASUVORK5CYII="/>
+    <image id="_Image14" width="17" height="17" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAYAAAA7bUf6AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABhklEQVQ4jZXTv2/NYRTH8Ve/l9tIlRANwiB+SxhE00hYiMFiMigSCf+KTUpiNxs6GLpUJI2WRKOREAwGDe3SEDpIJcXlGp5P068ol5M80/Oczznn/XxOw79Fha6/XXZKrtDEUaxdSazRoXIvTuESjmANZvGl/njVHzrbhOPoxwzuowenMYlPaNdF6iNtS/KBVJzAHKbxNSMdxnyESMsVtuIkduJtqrewKyP3YSpC53A9Rdr19ndgAON4gEdYxCG8Rzeu4GXeH8x4vzCYTMIsPuAq9mABmyN0VwE6ijPYkEk00lJXzjG8yWi9ERzADbwO6L3h0h0280t/XgXyOM5idQDPYF866sOPFJ3DOpzArSWftHOaih/G8BG7sVHxxyKe4R72YzC5d+ruqxRHPsQ1rI/wZzzHC5zHBTzFMF6hVXdsG98CrF/5iSk8Vkw2FAZDGME7fOd3x27Hk0CbUDwxmKoXA7pVY4OVN/OmYr4tuB2BhSSLQMcYw2UFZtPyJv93NCyvRMf4CcxrXGKBAbhMAAAAAElFTkSuQmCC"/>
+    <image id="_Image15" width="16" height="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAClUlEQVQ4jaVTP0g6cRx9d1/pHw0FEhIRRUMOaRenEpFDiY1R0FJQWw7h2NgkrbZGgwYhLi0R2NDiEARRHBjZUQ2KpJDYHyQ4Se5eQ3rR+vu96cMHPo/3ebwnkST+A472YBiGvZQkCUIICCEAAJZlodls/jns7u4GAMgA0Gg0UKlUoOs6ZmZmkMlkMDw8jNPTUzw9PWF0dBRLS0uYnZ2FruuoVqswTfOXAAA+Pj6gqiqEEIhEIohEIlheXsb5+Tn29vbgcrkghICqqqjX679qSbLRaGB6ehpCCBSLRYRCIfT19SEcDsPj8SCTySCZTKJcLmNsbAyWZeHm5gZCiB8PSOLr6wsLCwsYHByErut4eXlBMBiEYRi4vb3F0dEROjs7EQ6Hkc1m/yoAgEQigevrazidTtTrdWiahrm5OWxubqJUKiGbzaJcLsPtduP19RWxWAySJAFs4f39nc/Pzzw8PKTf7+fOzg4TiQT7+/sZjUZ5dnZGv9/PUqnEiYkJmqZJkrRNXF9fx8HBASYnJ2FZFgYGBqAoCi4uLjA0NIRAIIBarYbPz88f9+XWKUk2m03m83mGQiFub2+ztWYqlaLH4+Hi4iKTySQvLy95cnLCra2ttnDaL6ysrHBjY4OKolCWZVYqFa6trbG3t5fRaJQdHR3s6enh+Pg47+7ubAI7SMViEY+PjygUCsjlctjf34emaahWqxgZGYHD4cDq6ioeHh6wu7uLdgPsHOTzefh8PqiqimAwiKurKxwfHyMej0OSJLjdbtzf30PTNKTTaTtYIEnDMFgoFJjL5Tg1NcWuri56vV7WajWapsl4PE5FUfj29kav18v5+Xn7BTsH7Wy3yyTLMizLgizLaHllu2+apl00m+Bf8Q2fr5CFa+VfUwAAAABJRU5ErkJggg=="/>
+  </defs>
+</svg>

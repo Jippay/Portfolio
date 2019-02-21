@@ -1,0 +1,205 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    width: 100%;
+}
+body{
+    background-color: darkgrey;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.nomPrenom{
+    color: rgb(27, 51, 75);
+    font-weight: 500;
+    font-size: 2em;
+    margin-top : 25px;
+    text-align : center;
+}
+.fonction{
+    color: white;
+    font-weight: 300;
+    font-size: 2em;
+    text-align : center;
+}
+
+.ordiSet{
+    display: flex;
+    margin : 65px auto 0 auto;
+    position: relative;
+    width : 23em;
+    z-index: 10;
+
+}
+
+.feuilles{
+    position: absolute;
+    top: 270px;
+    left: 12px;
+    width : 7em;
+}
+.calculatrice{
+    position: absolute;
+    top: 280px;
+    right: 30px;
+    width : 4em;
+}
+.ciseau{
+    position: absolute;
+    width : 6em;
+    top: 410px;
+    left: -25px;
+}
+
+.smart{
+    position: absolute;
+    width: 5em;
+    right: 20px;
+}
+
+.crayon{
+    position: absolute;
+    width: 4em;
+    left: 9px;
+    top: 240px;
+}
+
+.coffee{
+    position: absolute;
+    width: 4em;
+    left: 30px;
+    top: 545px;
+}
+
+.CV{
+    position: absolute;
+    width: 7em;
+    left: 30px;
+    top: 260px;
+}
+
+.stylo{
+    position: absolute;
+    right: -3px;
+    top: 250px;
+    width: 1.5em;
+}
+
+.ordiSet:hover #_Image21_{
+    visibility: visible;
+}
+
+/* .node:hover + .description { visibility: visible} */
+
+/********* Media Queries ******/
+@media all and (min-width: 768px) and (max-width: 1024px){
+
+    .ordiSet{
+        width: 30em;
+    }  
+    
+    .calculatrice{
+        width: 5em;
+        right: 100px;
+    }
+
+    .stylo{
+        right: 55px;
+        top: 200px;
+    }
+
+    .feuilles{
+        left: 135px;
+        top: 250px;
+        width : 10em;
+    }
+
+    .CV{
+        left: 155px;
+        top: 245px;
+        width: 9em;
+    }
+
+    .smart{
+        right: 100px;
+        top: 500px;
+        width : 6em;
+    }
+
+    .crayon{
+        left: 60px;
+    }
+
+    .ciseau{
+        left: 5px;
+        width: 7em;
+    }
+
+    .coffee{
+        left: 155px;
+        top: 540px;
+        width: 4.5em;
+    }
+}
+@media all and (min-width: 1024px) and (max-width: 2000px){
+    .nomPrenom, .fonction{
+        font-size: 3em;
+    }
+    
+    .ordiSet{
+        margin-top: 100px;
+        width: 35em;
+    } 
+    .calculatrice{
+        right: 280px;
+        width: 6em;
+    }
+
+    .stylo{
+        right: 200px;
+        width : 2em;
+    }
+
+    .smart{
+        right: 200px;
+        top: 600px;
+        width: 6em;
+    }
+
+    .feuilles{
+        left: 135px;
+        top: 250px;
+        width : 10em;
+    }
+
+    .CV{
+        left: 253px;
+        top: 295px;
+        width: 11em;
+    }
+
+    .feuilles{
+        left: 210px;
+        top: 300px;
+        width : 14em;
+    }
+
+    .crayon{
+        left: 150px;
+        width: 5em;
+    }
+
+    .ciseau{
+        left: 100px;
+        top: 500px;
+        width: 7em;
+    }
+
+    .coffee{
+        left: 400px;
+        top: 650px;
+        width: 5em;
+    }
+}

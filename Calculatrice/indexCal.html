@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="styleCal.css">
+    <link href="https://fonts.googleapis.com/css?family=Acme" rel="stylesheet">
+    <title>calculatrice</title>
+</head>
+<body>
+    <header>
+        <h1>Calculatrice</h1>
+    </header>
+    <main>
+        <form name="calculatrice" class="calculatrice">
+            <input name="champChiffre1" id="champChiffre1" type="text" maxlength="4" placeholder="0000" onkeypress="verifNbre1()">
+            <select name="list" class="liste">
+                <option value="additionner">additionner</option>
+                <option value="soustraire">soustraire</option>
+                <option value="multiplier">multiplier</option>
+                <option value="diviser">diviser</option>
+            </select>
+            <input name="champChiffre2" id="champChiffre2" type="text" maxlength="4" placeholder="0000" onkeypress="verifNbre2()">
+            <input type="text" name="calculer" value="calculer" id="calcul" onclick="calc()" readonly>
+            <input type="text" name="result" id="resultat" placeholder="Résultat">
+            <input type="reset" class="reset" value="on efface !">
+        </form>
+    </main>
+    <footer>
+    </footer>
+    <script src="scriptCal.js"></script>
+</body>
+</html>
